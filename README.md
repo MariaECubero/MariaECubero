@@ -1,49 +1,39 @@
-## Olá pessoal, sou Maria Santos! 👋
 
-Sou formada em Contabilidade, com uma sólida experiência no atendimento à auditoria externa, mapeamento de fluxos e processos e levantamento e análise de dados. Atualmente, estou atuando na área de Gestão de Projetos dentro da Controladoria do Magalu, onde participo da criação de produtos, estruturando e fornecendo conhecimento sobre a parte técnica contábil.
+## Olá! 👋 Sou Maria Santos, apaixonada por tecnologia e inovação, com uma base sólida em Contabilidade e uma crescente experiência em Gestão de Projetos e Criação de Produtos.
 
-Atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Fatec Franca, onde estou cada vez mais mergulhando no mundo da tecnologia e expandindo minha visão sobre como a inovação e a contabilidade se encontram.
+Minha jornada profissional começou na Contabilidade, onde desenvolvi expertise em auditoria externa, mapeamento de processos e análise de dados. Essa experiência me proporcionou uma visão analítica e um conhecimento de negócios valioso para minha atual atuação na área de Gestão de Projetos dentro da Controladoria do Magalu.
 
-Sou movida por desafios e tenho um forte compromisso em contribuir para a entrega de projetos relevantes. Sou apaixonada pelas possibilidades que a tecnologia oferece e estou sempre em busca de novos conhecimentos para aplicar de forma estratégica em minha carreira. O universo da tecnologia é fascinante, e estou empolgada por estar explorando e desenvolvendo meu potencial dentro dele...
+Neste papel, estou diretamente envolvida na criação de produtos digitais, contribuindo com conhecimento técnico contábil para estruturar soluções inovadoras. A cada projeto, busco integrar minha compreensão financeira com as possibilidades que a tecnologia oferece.
 
-🚀 **Minhas Habilidades** 
+Para aprofundar meus conhecimentos no universo da tecnologia, estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Fatec Franca. Essa imersão tem expandido minha visão sobre a sinergia entre inovação e contabilidade, impulsionando minha busca por aplicar a tecnologia de forma estratégica.
 
-***Contabilidade***: Experiência em auditoria externa, análise de dados financeiros, estruturação de relatórios contábeis.
+Sou movida por desafios e acredito no poder da colaboração para entregar projetos relevantes e impactantes. Estou empolgada em explorar e desenvolver meu potencial no mundo da tecnologia!
 
-***Gestão de Projetos***: Planejamento, execução e acompanhamento de projetos com foco na área contábil e controle financeiro.
+🚀 **Minhas Habilidades**
 
-***Tecnologia e Desenvolvimento***: BigQuery, SQL
-
-***Mapeamento de Processos***: Levantamento, análise e confeccção de fluxos, melhorias de processos.
-
-***Ferramentas***: Excel, Kanban
+* **Gestão de Projetos:** Planejamento, execução e acompanhamento de projetos, com foco na integração de aspectos contábeis e financeiros em produtos digitais.
+* **Criação de Produtos:** Participação na estruturação e desenvolvimento de produtos, fornecendo expertise técnica contábil.
+* **Contabilidade:** Auditoria externa, análise de dados financeiros, estruturação de relatórios contábeis.
+* **Mapeamento de Processos:** Levantamento, análise e otimização de fluxos de trabalho.
+* **Análise de Dados:** Identificação de insights e padrões para tomada de decisão.
+* **Tecnologias:** BigQuery, SQL.
+* **Ferramentas:** Excel, Kanban.
 
 📚 **Educação**
 
-Análise e Desenvolvimento de Sistemas – Fatec Franca (3º semestre)
+* Análise e Desenvolvimento de Sistemas – Fatec Franca (Cursando o 3º semestre)
+* *Pós Graduação em Engenharia de Software - Descomplica  
+   (Cursando com previsão de conclusão em 11/2025)
+* Bacharel em Contabilidade – Universidade Franca (2021)
 
-Bacharel em Contabilidade – Universidade Franca (2021)
+**Aprendendo e Explorando:**
 
-**Estou aprendendo**
+<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo-500x281.png" alt="JavaScript" width="100" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Tj1GJwZPB9s0Z75Sk76_MH5zW1HVYXiXWg&s" alt="React" width="70" /> <img src="https://i.pinimg.com/736x/a9/dc/c7/a9dcc740cad3149598307b5de8bc10c3.jpg" alt="Node.js" width="80" /> <img src="https://lginfo.com.br/site/wp-content/uploads/2023/10/Python-Symbol.png" alt="Python" width="100" />
 
-<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo-500x281.png" alt="Texto Alternativo" width="100" /><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Tj1GJwZPB9s0Z75Sk76_MH5zW1HVYXiXWg&s" alt="Texto Alternativo" width="70" /><img src="https://i.pinimg.com/736x/a9/dc/c7/a9dcc740cad3149598307b5de8bc10c3.jpg" alt="Texto Alternativo" width="80" /><img src="https://lginfo.com.br/site/wp-content/uploads/2023/10/Python-Symbol.png" alt="Texto Alternativo" width="100" />
-
-**Contatos:**
-
+**Conecte-se comigo:**
 <div>
-<a href="https://www.linkedin.com/in/maria-eduarda-cubero-santos-9a7151150/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "dudacubero2018@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!--
-**MariaECubero/MariaECubero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Conecte-se comigo:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-cubero-santos-9a7151150/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudacubero2018@gmail.com)
