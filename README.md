@@ -33,7 +33,5 @@ Sou movida por desafios e acredito no poder da colaboração para entregar proje
 **Conecte-se comigo:**
 <div>
 
-**Conecte-se comigo:**
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-cubero-santos-9a7151150/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudacubero2018@gmail.com)
