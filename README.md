@@ -5,7 +5,7 @@ Minha jornada profissional começou na Contabilidade, onde desenvolvi expertise 
 
 Neste papel, estou diretamente envolvida na criação de produtos digitais, contribuindo com conhecimento técnico contábil para estruturar soluções inovadoras. A cada projeto, busco integrar minha compreensão financeira com as possibilidades que a tecnologia oferece.
 
-Para aprofundar meus conhecimentos no universo da tecnologia, estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Fatec Franca. Essa imersão tem expandido minha visão sobre a sinergia entre inovação e contabilidade, impulsionando minha busca por aplicar a tecnologia de forma estratégica.
+Para aprofundar meus conhecimentos no universo da tecnologia, estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Fatec Franca. Essa imersão tem expandido minha visão sobre a sinergia entre inovação e contabilidade, impulsionando minha busca por aplicar a tecnologia de forma estratégica.
 
 Sou movida por desafios e acredito no poder da colaboração para entregar projetos relevantes e impactantes. Estou empolgada em explorar e desenvolver meu potencial no mundo da tecnologia!
 
