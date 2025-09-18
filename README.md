@@ -21,7 +21,7 @@ Sou movida por desafios e acredito no poder da colaboração para entregar proje
 
 📚 **Educação**
 
-* Análise e Desenvolvimento de Sistemas – Fatec Franca (Cursando o 3º semestre)
+* Análise e Desenvolvimento de Sistemas – Fatec Franca (Cursando o 4º semestre)
 * *Pós Graduação em Engenharia de Software - Descomplica  
    (Cursando com previsão de conclusão em 11/2025)
 * Bacharel em Contabilidade – Universidade Franca (2021)
